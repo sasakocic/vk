@@ -3,7 +3,7 @@
 namespace Vk;
 
 /**
- * Dummy class
+ * Dummy class.
  */
 class Dummy
 {
