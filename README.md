@@ -1,4 +1,4 @@
-# VK SDK for PHP
+# VK SDK for PHP (NOT YET WORKING)
 
 [![Build Status](https://img.shields.io/travis/facebook/php-graph-sdk/5.4.svg)](https://travis-ci.org/sasakocic/vk)
 [![Latest Stable Version](http://img.shields.io/badge/Latest%20Stable-5.4.4-blue.svg)](https://packagist.org/packages/sasakocic/vk)
